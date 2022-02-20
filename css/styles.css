@@ -468,6 +468,7 @@ body {
 
 .footer-container {
   display: flex;
+  align-items: baseline;
 }
 
 .logo-footer {
@@ -496,7 +497,6 @@ body {
 }
 
 .footer-socials-container {
-  padding-top: 12px;
   margin-left: 70px;
 }
 
